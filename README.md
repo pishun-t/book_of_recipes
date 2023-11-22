@@ -4,3 +4,6 @@
 * [Guacamole](guacamole.md)
 
 ## Hot sauces
+
+## Breakfast dishes
+* [Eggs on toast](EggsOnToast.md)
